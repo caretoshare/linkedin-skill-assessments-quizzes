@@ -267,3 +267,34 @@ Personal Hint: There are multiple file suffixes for templates (.potx, .potm, .po
 - [x] Use the Screenshot command. (Office2019)
 - [ ] Use the Print key.
 - [ ] Use the Capture Screen command.
+
+#### Q34. Why would you use the Outline view?
+- [ ] To see only the text in placeholders.
+- [ ] To organize your slides.
+- [ ] To add text from a Word document.
+- [ ] To present the slides at a high level.
+
+#### Q35. In addition to organizing your slides, how else can sections increase your productivity?
+- [ ] All the slides in a section can be selected at once to apply changes such as transitions, layouts, or hiding slides.
+- [ ] Sections can be exported as a separate presentation.
+- [ ] You can resize all the slides in a section at once.
+- [ ] You can apply animations to all the slides in a section at once.
+
+
+#### Q36. The text on the left and right edges of the slide are cut off in print preview. How can you fix this in the print settings?
+- [ ] Select Scale to Fit Paper.
+- [ ] Unselect High Quality.
+- [ ] Select Frame Slides.
+- [ ] Select Autofit to Paper.
+
+#### Q37. How can you add more layouts to the Layout Gallery?
+- [ ] Use the Add Layouts command.
+- [ ] Customize the Layout Gallery.
+- [ ] Add Slide Layouts to the Slide Master.
+- [ ] Use the Insert Layouts command.
+
+#### Q38. What options can you specify when sharing a presentation on OneDrive?
+- [ ] Collaborate or Share
+- [ ] View or Edit
+- [ ] Read or Edit
+- [ ] Collaborate or View
